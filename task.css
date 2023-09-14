@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(195, 159, 182);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #544a61;
+}
+#btn{
+  margin-left: 700px;
+  margin-top: 30px;
+  padding: 10px;
+  border: 5px solid #342443;
+  border-radius: 5px;
+  background-color: rgb(210, 181, 226);
+  font-size: larger;
+}
+#fortune{
+    color: #60204f;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: larger;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
